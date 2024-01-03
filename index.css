@@ -1,0 +1,35 @@
+.header{
+    width: auto;
+    height: 50px;
+    background-color: brown ;
+    color: aliceblue;
+    text-align: center;
+    font-style: italic;
+    margin: 5px;
+    border-radius: 10px;
+}
+
+.blog{
+    border: 5px solid rgb(163, 163, 247);
+    /* display: none; */
+    /* visibility: hidden; */
+    font-size: 25px;
+    width: 800px;
+    height: 620px;
+    border-radius: 10px;
+    text-align: justify;
+    box-shadow: 10px 10px 10px rgb(144, 144, 248);
+    margin: auto;
+    padding: 10px;
+    color: aliceblue
+}
+
+.form{
+    margin: auto;
+    border: 10px solid rgb(163, 163, 247);
+    width: 350px;
+    padding: 10px;
+    border-radius: 20px 0;
+    text-align: center;
+    box-shadow: 0px 0px 10px 10px rgb(144, 144, 248);
+}
